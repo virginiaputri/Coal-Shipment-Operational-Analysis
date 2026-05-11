@@ -1,4 +1,4 @@
-# Coal Shipment Operational Analysis Dashboard: PT ITM Site Bontang
+# Coal Shipment Operational Analysis Dashboard
 
 A comprehensive Power BI solution designed to monitor and optimize coal shipment operations. This dashboard provides end-to-end visibility into logistics performance, weather impacts, and supply chain risks, specifically tailored for analysts and sales teams.
 
